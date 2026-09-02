@@ -20,3 +20,6 @@ Vend **support / socle pour ordinateur portable** BESIGN SSEA.
 Permet de surélever l'ordinateur sur un bureau pour une meilleure posture et ventilation.
 
 À retirer sur place.
+
+## Image
+- `images/ann-5-besign.jpg`

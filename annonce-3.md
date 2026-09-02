@@ -17,3 +17,6 @@ Livre **Investir pour être libre** de Mounir Laggoune, First Éditions.
 Guide pratique en 9 étapes pour atteindre l'indépendance financière, par l'expert qui conseille 600 000 investisseurs.
 
 À retirer sur place.
+
+## Image
+- `images/ann-3-investir.jpg`

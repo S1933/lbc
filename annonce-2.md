@@ -22,3 +22,8 @@ Le tout pour **10 €**, à retirer sur place.
 - Laravel: Up & Running : très bon état
 - CommitStrip: Rise of The Coders : très bon état (anglais)
 - Prix du lot : 10 €
+
+## Images
+- Drupal 8 : `images/ann-2-drupal.jpg`
+- Laravel : `images/ann-2-laravel.jpg`
+- CommitStrip : `images/ann-2-commitstrip.jpg`

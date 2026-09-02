@@ -19,3 +19,6 @@ Le tout pour **5 €**, à retirer sur place.
 - Berserk t.1 (Kentaro Miura, Glénat) — très bon état
 - One Piece t.20 (Eiichiro Oda, Glénat) — très bon état
 - Prix du lot : 5 €
+
+## Image
+- `images/ann-4-mangas.jpg`

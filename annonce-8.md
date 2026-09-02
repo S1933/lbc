@@ -25,3 +25,6 @@ L'offre inclut **abat-jour + suspension complète** (la suspension est normaleme
 ## Récap
 - Prix neuf (abat-jour seul) : 49,99 € chez IKEA France
 - Prix de vente (abat-jour + suspension complète) : 10 €
+
+## Image
+- `images/ann-8-ikea.jpg`

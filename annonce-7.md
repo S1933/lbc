@@ -24,3 +24,6 @@ Appareil fonctionnel, propre, réservoir en bon état.
 
 ## Note
 Sur la photo jointe on voit l'humidificateur seul (anneau + réservoir). Si ton modèle est bien le **AM10**, il fait aussi ventilateur — je l'ai indiqué dans le titre comme tu l'as formulé. Si tu connais la référence exacte (AM10 ou autre), dis-le-moi et je précise.
+
+## Image
+- `images/ann-7-dyson.jpg`

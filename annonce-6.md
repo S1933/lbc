@@ -29,3 +29,6 @@ Vend **siège massant Shiatsu Snailax**, avec chaleur et vibration d'assise.
 
 ## Source
 - Amazon : https://amzn.eu/d/08SFk6NC
+
+## Image
+- `images/ann-6-snailax.jpg`
