@@ -22,4 +22,4 @@ Permet de surélever l'ordinateur sur un bureau pour une meilleure posture et ve
 À retirer sur place.
 
 ## Image
-- `images/ann-5-besign.jpg`
+- `images/ann-5-besign.jpg` (logo BESIGN gravé visible sur la base)
